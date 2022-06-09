@@ -8,3 +8,5 @@ download.microsoft.com
 wustat.windows.com
 ntservicepack.microsoft.com
 stats.microsoft.com
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
